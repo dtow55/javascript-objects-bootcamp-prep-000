@@ -1,7 +1,7 @@
 var playlist = {
-  Kanye West: 'Homecoming', 
-  Frederik Chopin: 'Overture No.5',
-  Katy Perry: 'Lights'
+  'Kanye West': 'Homecoming', 
+  'Frederik Chopin': 'Overture No.5',
+  'Katy Perry': 'Lights'
 };
 
 function updatePlaylist(playlist, artist, song) {
