@@ -1,6 +1,6 @@
 var playlist = {
   Kanye West: 'Homecoming', 
-  Frederik Chopin: 'Overture No.5'
+  Frederik Chopin: 'Overture No.5',
   Katy Perry: 'Lights'
 };
 
